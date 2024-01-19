@@ -2,4 +2,4 @@
 target = "riscv32imac-unknown-none-elf"
 
 [unstable]
-build-std = ["std", "core", "alloc", "test", "panic_abort"]
+build-std = ["std", "core", "alloc", "panic_abort"]
